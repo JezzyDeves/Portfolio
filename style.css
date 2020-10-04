@@ -14,6 +14,11 @@ background-size: cover;
     margin-top: 3em;
 }
 
+.card-body {
+    d-flex;
+    flex-column;
+}
+
 .contact {
     text-align: center;
     border: solid 5px black;
@@ -22,6 +27,16 @@ background-size: cover;
     background-color: lightblue;
     margin-top: 200px;
     margin-left: 40%;
+}
+
+#contact {
+    background-color: lightblue;
+    text-align: center;
+    border: double 8px darkblue;
+    width: 40%;
+    height: 30%;
+    margin: auto;
+    margin-top: 15%;
 }
 
 footer {
