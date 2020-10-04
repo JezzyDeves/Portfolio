@@ -1,0 +1,56 @@
+body {
+background-image: url(./img/markus-spiske-qjnAnF0jIGk-unsplash.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-group {
+    margin-top: 3em;
+}
+
+.contact {
+    text-align: center;
+    border: solid 5px black;
+    width: 250px;
+    height: 200px;
+    background-color: lightblue;
+    margin-top: 200px;
+    margin-left: 40%;
+}
+
+footer {
+    background-color: darkblue;
+    color: white;
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+  }
+
+  #links {
+      padding-left: 8px;
+  }
+
+#middle {
+border: 5px solid black;
+background-color: white;
+}
+
+.card-deck {
+    margin-top: 250px;
+}
+
+#name {
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 2em;
+}
