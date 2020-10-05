@@ -42,6 +42,17 @@ background-size: cover;
 footer {
     background-color: darkblue;
     color: white;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 20px;
+    font-size: small;
+    text-align: right;
+}
+
+#footer {
+    background-color: darkblue;
+    color: white;
     position: absolute;
     bottom: 0;
     width: 100%;
@@ -66,9 +77,6 @@ border: 5px solid black;
 background-color: white;
 }
 
-.card-deck {
-    margin-top: 250px;
-}
 
 #name {
     color: white;
