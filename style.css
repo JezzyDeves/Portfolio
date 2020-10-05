@@ -76,3 +76,10 @@ background-color: white;
     margin: auto;
     margin-top: 2em;
 }
+
+#download {
+    color: white;
+    text-align: center;
+    margin: auto;
+    margin-top: 1em;
+}
