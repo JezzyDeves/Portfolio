@@ -42,15 +42,16 @@ background-size: cover;
 footer {
     background-color: darkblue;
     color: white;
-    position: relative;
+    position: fixed;
     bottom: 0;
+    left: 0;
     width: 100%;
     height: 20px;
     font-size: small;
     text-align: right;
 }
 
-#footer {
+/* #footer {
     background-color: darkblue;
     color: white;
     position: absolute;
@@ -59,7 +60,7 @@ footer {
     height: 20px;
     font-size: small;
     text-align: right;
-}
+} */
 
   #links {
       padding-left: 8px;
@@ -75,6 +76,9 @@ footer {
 #middle {
 border: 5px solid black;
 background-color: white;
+margin: auto;
+margin-bottom: 25px;
+font-size: 1.5em;
 }
 
 
