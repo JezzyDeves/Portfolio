@@ -9,6 +9,10 @@ background-size: cover;
     /* width: 100%; */
 }
 
+#links {
+    font-size: 2rem;
+}
+
 .form-container {
     height: 100vh;
 }
@@ -70,10 +74,6 @@ footer {
     font-size: small;
     text-align: right;
 } */
-
-  #links {
-      padding-left: 8px;
-  }
 
   #mystuff {
     display: block;
