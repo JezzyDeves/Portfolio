@@ -13,6 +13,9 @@ background-size: cover;
     font-size: 2rem;
 }
 
+#text {
+    text-shadow: 7px 7px 7px black;
+}
 .form-container {
     height: 100vh;
 }
